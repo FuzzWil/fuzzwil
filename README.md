@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 21
 They/Them
 
-Currently working on a simple top-down game and visual novel for a two game jams
+Currently working on a simple top-down game and visual novel for two game jams
 
 I'm currently learning...
 - how to improve my game mechanics with better physics and math calculations.
@@ -27,4 +27,4 @@ I'm currently learning...
 
 My socials | Instagram, Bluesky or X (Twitter), and TikTok uses fuzzwil
 
-Fun Fact | I made my current persona, Jaiden Vulpes since 2024. They are a descendant of spirits who hunt souls for a living. They live in a den, but when on an adventure or on a quest they'll go to different Inns.
+Fun Fact | I made my current persona, Jaiden Vulpes since 2024. They are a descendant of spirits who hunt souls for a living. They live in a den but when on an adventure or on a quest, they'll stay at different Inns.
